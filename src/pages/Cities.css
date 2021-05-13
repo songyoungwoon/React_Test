@@ -1,0 +1,14 @@
+.cities {
+    display : flex;
+    color : blue;
+    justify-content: center;
+    margin: 20px 1em 20px 1em; /* top right bottom left */
+    padding-left: 0;
+    list-style: none;
+}
+
+.cityList{
+    color : red;
+    padding-left: 0;
+    list-style:none;
+}
